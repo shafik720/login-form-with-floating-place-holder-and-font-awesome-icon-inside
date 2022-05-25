@@ -70,3 +70,6 @@ body{
     border: none;
     cursor: pointer;
 }
+.inputField input[type="submit"]:hover{
+    background: linear-gradient(45deg, #E53D30,#24ACF2 )
+}
